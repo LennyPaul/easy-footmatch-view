@@ -1,0 +1,7 @@
+{
+  "name": "footViewer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
