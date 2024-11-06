@@ -1,4 +1,4 @@
 # easy-footmatch-view
 
 
-IONIC PROJECT
+IONIC & VUEJS PROJECT
